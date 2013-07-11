@@ -13,4 +13,4 @@ morbo script/gvehicle
 
 ####Note####
 
-busdb is the database. this application run only if the database is included.
+busdb is the database that contains Bus information of Trichirappalli, Tamilnadu only. This application run only if the database is included.
