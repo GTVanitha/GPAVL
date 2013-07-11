@@ -5,7 +5,7 @@ perl+mojolicious+jquerymobile=Geo position Aware Vehicle Locator
 
 ####Descritpion####
 
-To find the bus in real time on Google map
+To find the vehicles in real time on Google map
 
 ####To Run####
 
